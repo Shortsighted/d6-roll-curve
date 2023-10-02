@@ -29,3 +29,5 @@ function createGraph(howManyD6, howManyTimes) {
 
     console.log(array)
 }
+
+createGraph(10, 1000000)
